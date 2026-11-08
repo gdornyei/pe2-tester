@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- RJ45 plug outline -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,34h36a4,4 0,0 1,4 4v22a4,4 0,0 1,-4 4h-8v8h-20v-8h-8a4,4 0,0 1,-4 -4v-22a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#1C6FB5"
+        android:pathData="M40,38h3v10h-3zM45,38h3v10h-3zM50,38h3v10h-3zM55,38h3v10h-3zM60,38h3v10h-3zM65,38h3v10h-3z" />
+    <path android:fillColor="#2E9E5B" android:pathData="M48,52l4,4l8,-9l3,3l-11,12l-7,-7z" />
+</vector>
